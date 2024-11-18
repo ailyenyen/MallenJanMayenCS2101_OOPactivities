@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 public class ArtistDemo {
     public static void main(String[] args) {
 
