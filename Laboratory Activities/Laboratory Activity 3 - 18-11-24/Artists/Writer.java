@@ -23,7 +23,7 @@ class Writer extends Artist {
 
     @Override
     public void displayInfo() {
-        System.out.println("Writer Info's: ");
+        System.out.println("Writer's Info: ");
         super.displayInfo();
         System.out.println("Writing Style: " + writingstyle);
     }
