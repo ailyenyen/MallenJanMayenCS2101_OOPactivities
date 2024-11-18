@@ -22,7 +22,7 @@ class Dancer extends Artist {
 
     @Override
     public void displayInfo() {
-        System.out.println("Dancer Info's: ");
+        System.out.println("Dancer's Info: ");
         super.displayInfo();
         System.out.println("Dance Style: " + dancestyle);
     }
