@@ -1,5 +1,5 @@
 # Deliverables Checklist
-
+---
 ## Laboratory Activities
 
 ### Laboratory Activity 1 
