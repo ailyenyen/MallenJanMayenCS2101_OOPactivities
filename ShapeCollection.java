@@ -1,5 +1,6 @@
 public class ShapeCollection {
     private Shape[] shapes;
+
     public ShapeCollection(Shape[] shapes) {
         this.shapes = shapes;
     }
