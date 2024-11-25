@@ -47,4 +47,5 @@ public class Triangle implements Shape {
     public void printShapeType() {
         System.out.println("Triangle");
     }
+
 }

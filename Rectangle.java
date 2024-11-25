@@ -38,5 +38,4 @@ public class Rectangle implements Shape {
     public void printShapeType() {
         System.out.println("Rectangle");
     }
-
 }

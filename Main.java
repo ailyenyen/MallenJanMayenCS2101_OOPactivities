@@ -9,6 +9,5 @@ public class Main {
         ShapeCollection shapeCollection = new ShapeCollection(shapes);
 
         shapeCollection.getPropertyValues();
-
     }
 }

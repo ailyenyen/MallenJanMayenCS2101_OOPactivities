@@ -14,6 +14,7 @@ public class ShapeCollection {
                 shape.printShapeType();
                 System.out.printf("Area: %.2f\n", area);
                 System.out.printf("Perimeter: %.2f\n", perimeter);
+
             }
         }
     }
