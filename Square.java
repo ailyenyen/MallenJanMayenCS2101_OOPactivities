@@ -27,4 +27,5 @@ public class Square implements Shape {
     public void printShapeType() {
         System.out.println("Square");
     }
+
 }
